@@ -1,0 +1,42 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "bun@latest": {
+      "last_modified": "2023-11-26T23:14:46Z",
+      "resolved": "github:NixOS/nixpkgs/45827faa2132b8eade424f6bdd48d8828754341a#bun",
+      "source": "devbox-search",
+      "version": "1.0.14",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/kv9w6r2b43yfm0hm1ngxjkwxi3p4v36c-bun-1.0.14"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/hd23c00w38wdmv1l9k5xvz0l0h05xcpx-bun-1.0.14"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/rirvcfjgdk0a27hqsk40h2mx4p3c7q0w-bun-1.0.14"
+        }
+      }
+    },
+    "nodejs@20": {
+      "last_modified": "2023-11-24T11:02:37Z",
+      "resolved": "github:NixOS/nixpkgs/068bacb9b6fbee6a603d1b1f68d7cf032c4feed1#nodejs_20",
+      "source": "devbox-search",
+      "version": "20.10.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/ya9wfsimhw3sjp7inn6kkn934i440kb8-nodejs-20.10.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/ryc5g0vdg8d3mm0ssawj27lqn5x238ji-nodejs-20.10.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/f49j6rczz3adfh8n8fmh8zfxhyh17ljv-nodejs-20.10.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/mih3j0yxng0xsad55787jqfbyi53rp0j-nodejs-20.10.0"
+        }
+      }
+    }
+  }
+}

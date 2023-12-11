@@ -13,8 +13,6 @@ bunx create-remix@latest --template openformation/remix-app-template
 Spin up the Vite dev server:
 
 ```shellscript
-devbox shell
-
 bun run dev
 ```
 

@@ -1,3 +1,16 @@
+/**
+ * @openformation/remix-app-template
+ *
+ * Copyright, 2023 - Open Formation GmbH, Hamburg, Germany
+ *
+ * All rights reserved
+ */
+
+/**
+ * @author André König <andre.koenig@openformation.io>
+ *
+ */
+
 import {
   Links,
   LiveReload,
@@ -6,6 +19,8 @@ import {
   Scripts,
   ScrollRestoration,
 } from "@remix-run/react";
+
+import "~/styles/globals.css";
 
 export default function App() {
   return (
