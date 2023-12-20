@@ -1,7 +1,7 @@
 {
   "packages": [
     "nodejs@20",
-    "bun@latest"
+    "bun@1.0.17"
   ],
   "shell": {
     "init_hook": [
