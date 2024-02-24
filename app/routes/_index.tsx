@@ -1,7 +1,7 @@
 /**
  * @openformation/remix-app-template
  *
- * Copyright, 2023 - Open Formation GmbH, Hamburg, Germany
+ * Copyright, 2023 - 2034 - Open Formation GmbH, Hamburg, Germany
  *
  * All rights reserved
  */
