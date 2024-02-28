@@ -25,4 +25,4 @@ bun run start
 
 ## Copyright
 
-2023, [Open Formation GmbH](https://openformation.io)
+2024, [Open Formation GmbH](https://openformation.io)
