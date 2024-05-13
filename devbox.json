@@ -1,3 +1,6 @@
 {
-  "packages": ["nodejs@20", "bun@1.0.33"]
+  "packages": [
+    "nodejs@20",
+    "bun@1.1.7"
+  ]
 }
